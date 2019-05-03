@@ -1,9 +1,9 @@
 { 
       "my.user_ocid":"ocid1.user.oc1..aaaaaaaagoecyoqm5hye5c7rexpnkq2k64qvtr5e2smi4fmr2pdhrhkb7mpq" ,
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaaa3qeno3xmseyxootd7lnrsu3iu7tgxm4u2mgdg2ardus3y6zphcq",
       "my.fingerprint":"49:3d:42:41:61:f3:40:c9:c6:15:2c:57:29:fd:94:e4",
       "my.availability_domain": "pasteYourAvailbilityDomain",
-      "my.region": "us-ashburn-1",
+      "my.region": "eu-frankfurt-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaq5w4mire5wdbgczduvke65oxjtm5jbbcyrpfjycgqx5vvbybpi2q",
       "my.subnet_ocid": "ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaaw6tmbbcqcuihunjrzitisy7pe3qxkhvbacapz7zjrwhmb5efvvvq",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
