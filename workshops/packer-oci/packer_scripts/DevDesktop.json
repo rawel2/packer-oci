@@ -1,5 +1,5 @@
 { 
-      "my.user_ocid":"pasteYourUserOCID" ,
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaagoecyoqm5hye5c7rexpnkq2k64qvtr5e2smi4fmr2pdhrhkb7mpq" ,
       "my.tenancy_ocid": "pasteYourTenancyOCID",
       "my.fingerprint":"pasteYourFingprint",
       "my.availability_domain": "pasteYourAvailbilityDomain",
